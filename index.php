@@ -1,10 +1,5 @@
 <?php
-//session_start();
-/*include 'classes/Config.php';
-include 'classes/DBconn.php';
-include 'classes/People.php';
-include 'classes/User.php';
-include 'classes/Request.php';*/
+
 
 include 'includes/header.php';
 
